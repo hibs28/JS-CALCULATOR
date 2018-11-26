@@ -18,4 +18,4 @@
 1. I couldn't remember how the while loop works as it has been a while using them. 
 
 ### Learning points
-1. I now know how the declare variables in Javascript, how switch and loops work. 
+1. I know understand how to declare variables in Javascript, how switch and loops work. 
