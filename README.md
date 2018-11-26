@@ -1,5 +1,6 @@
 # JS-CALCULATOR
 ### Description
+A prompt calculator
 
 ### Languages used
 * JavaScript
